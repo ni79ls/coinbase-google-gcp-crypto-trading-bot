@@ -1,0 +1,6 @@
+pandas
+requests
+tradingview_ta
+datetime
+firebase-admin
+sendgrid

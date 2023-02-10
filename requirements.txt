@@ -1,0 +1,5 @@
+datetime
+pandas
+tradingview_ta
+functions-framework
+firebase-admin
